@@ -14,5 +14,5 @@ jobs:
         uses: maxam2017/productive-box@master
         env:
           GH_TOKEN: "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"
-          GIST_ID: "https://gist.github.com/silqwer"
+          GIST_ID: "bb851b860d6d6d0f99ee102c4dce6772"
           TIMEZONE: "Asia/Seoul"
